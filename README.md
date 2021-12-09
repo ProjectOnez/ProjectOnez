@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 2018-2021:
-Cisco,Sangfor(深信服),HughesNet,RCN,Snapchat,Life360,...
+  Cisco,Sangfor(深信服),HughesNet,RCN,Snapchat,Life360,...
 
 My CVE:
-CVE-2019-8908 WTCMS 
-CVE-2021-40373 playSMS
-CVE-2021-26830 Zenario CMS
-...
+* CVE-2019-8908 WTCMS 
+* CVE-2021-40373 playSMS
+* CVE-2021-26830 Zenario CMS
+* ...
