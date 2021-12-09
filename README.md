@@ -29,4 +29,4 @@ CVE:
 * CVE-2019-8908 WTCMS 
 * CVE-2021-40373 playSMS
 * CVE-2021-26830 Zenario CMS
-* ...
+* And Many Many More
