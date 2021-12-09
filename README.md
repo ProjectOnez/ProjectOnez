@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My team: [The loner](https://www.lonersec.com)
 
 2018-2021:
 * Cisco
@@ -21,9 +22,10 @@ Here are some ideas to get you started:
 * HughesNet
 * RCN
 * Snapchat
-* Life360,...
+* Life360
+* ...
 
-My CVE:
+CVE:
 * CVE-2019-8908 WTCMS 
 * CVE-2021-40373 playSMS
 * CVE-2021-26830 Zenario CMS
